@@ -10,7 +10,7 @@ while number < 10: # number <=9 도 가능
 #커피 수량
 coffee = 5
 
-#
+#커피가 주어진 갯수 부터 0이 아닐 때 까지 실행
 while coffee > 0 :
     money = int(input("금액을 입력해주세요 : "))
     
